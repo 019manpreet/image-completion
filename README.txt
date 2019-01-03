@@ -7,3 +7,9 @@
 - The first method uses labels of digits to generate the model for each digit.
 - The second method uses the technique of Expextation-Maximization to generate the model.
 - It is highly recommended to go through the theory of these methods to completely understand the code.
+- The output contains completed images based on whatever model you prefer to run.
+- Two methods are run functions: train_from_labels or train_with_em.
+- Notaions:
+	N -> number of training cases
+	D -> dimensions of each vector
+	K -> number of components 
